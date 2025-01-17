@@ -17,10 +17,9 @@ To set up the environment, ensure you have Python installed along with Jupyter N
 To clone the repository, use the following command:
 
 ```bash
-git clone <repository_link>
+git clone https://github.com/Sriram-Merugu/Image-Processing-Techniques-and-Natural-Language-Processing.git
 ```
 
-Replace `<repository_link>` with the actual link to your repository.
 
 ## Usage Instructions
 To execute the notebooks, you can use Jupyter Notebook or Google Colab.
@@ -28,7 +27,7 @@ To execute the notebooks, you can use Jupyter Notebook or Google Colab.
 ### Running in Jupyter Notebook
 1. Navigate to the directory containing the notebooks:
    ```bash
-   cd path/to/your/repository
+   cd Image-Processing-Techniques-and-Natural-Language-Processing
    ```
 2. Start Jupyter Notebook:
    ```bash
